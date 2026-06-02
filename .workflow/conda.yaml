@@ -1,0 +1,12 @@
+name: env_hate_speech
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - mlflow
+      - tensorflow
+      - pandas
+      - numpy
+      - scikit-learn
