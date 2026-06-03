@@ -1,1 +1,0 @@
-# Eksperimen_SML_Ammar_Fernanda_Khoiri
