@@ -1,3 +1,0 @@
-[KRITERIA 3: WORKFLOW CI - MLFLOW PROJECT]
-Repository GitHub Otomasi Re-training:
-https://github.com/ammarfrnd/Eksperimen_SML_Ammar_Fernanda_Khoiri
